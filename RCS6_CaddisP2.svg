@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="765"
+   height="990"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="RCS6 - Caddis P2.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5258"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#007800;stop-opacity:1;"
+         offset="0"
+         id="stop5260" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5218"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#549454;stop-opacity:1;"
+         offset="0"
+         id="stop5220" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5212"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#969696;stop-opacity:1;"
+         offset="0"
+         id="stop5214" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5206"
+       osb:paint="solid"
+       gradientTransform="translate(-11.6195,-248.11051)">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5208" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5200"
+       osb:paint="solid"
+       gradientTransform="translate(-9,34)">
+      <stop
+         style="stop-color:#007800;stop-opacity:0.44444445;"
+         offset="0"
+         id="stop5202" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5182"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5184" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         id="path4182"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible">
+      <path
+         id="path4200"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart"
+       style="overflow:visible">
+      <path
+         id="path4197"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lstart"
+       style="overflow:visible">
+      <path
+         id="path4191"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <linearGradient
+       id="linearGradient5316"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5318" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5306"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#00bace;stop-opacity:1;"
+         offset="0"
+         id="stop5308" />
+      <stop
+         style="stop-color:#00bace;stop-opacity:0;"
+         offset="1"
+         id="stop5310" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5296"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5298" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5290"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop5292" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4197-3"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5200"
+       id="linearGradient5204"
+       x1="362.18747"
+       y1="15.932114"
+       x2="386.88046"
+       y2="15.932114"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(419.25441,-32.015792)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5206"
+       id="linearGradient5210"
+       x1="396.74417"
+       y1="15.932114"
+       x2="420.42078"
+       y2="15.932114"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(446.69652,-31.507604)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5212"
+       id="linearGradient5216"
+       x1="396.74417"
+       y1="15.932114"
+       x2="420.42078"
+       y2="15.932114"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(446.69652,-31.507604)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5218"
+       id="linearGradient5222"
+       x1="328.64709"
+       y1="15.932114"
+       x2="351.81552"
+       y2="15.932114"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(483.28599,-31.507604)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5258"
+       id="linearGradient5262"
+       x1="297.64771"
+       y1="15.932114"
+       x2="322.34067"
+       y2="15.932114"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(483.79418,-32.015792)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5182"
+       id="linearGradient5500"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-134.19445,-170.57219)"
+       x1="696.08563"
+       y1="69.421516"
+       x2="946.6286"
+       y2="69.421516" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4200-7"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4197-2"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-32"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4197-9"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4200-74"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3486"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3488"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.6532462"
+     inkscape:cx="380.98315"
+     inkscape:cy="147.38764"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1239"
+     inkscape:window-height="911"
+     inkscape:window-x="24"
+     inkscape:window-y="1"
+     inkscape:window-maximized="0"
+     gridtolerance="10">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3012"
+       empspacing="50"
+       visible="true"
+       enabled="false"
+       snapvisiblegridlinesonly="true"
+       spacingx="0.1px"
+       originy="20px"
+       spacingy="0.1px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Grid"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-62.36218)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.49999997;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3780"
+       width="654.7312"
+       height="851.55481"
+       x="55.402069"
+       y="140.19707" />
+    <path
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.70588235;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 55.466293,190.30038 654.582367,0"
+       id="path3803"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino Bold"
+       x="100.67484"
+       y="272.63083"
+       id="text3817"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3819"
+         x="100.67484"
+         y="272.63083" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"
+       x="94.150002"
+       y="161.91808"
+       id="text3514"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3516"
+         x="94.150002"
+         y="161.91808"> </tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3752"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"
+       transform="translate(79.369089,332.35441)"><flowRegion
+         id="flowRegion3754"><rect
+           id="rect3756"
+           width="655.39764"
+           height="61.857765"
+           x="22.092058"
+           y="-130.46477" /></flowRegion><flowPara
+         id="flowPara3764"
+         style="font-size:8px;font-weight:bold;-inkscape-font-specification:Palatino Bold" /></flowRoot>    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4792"
+       d="m 55.466293,250.30038 654.582367,0"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.70588235;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.70588235;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 55.466293,313.30038 654.582367,0"
+       id="path4794"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4796"
+       d="m 55.466293,497.30038 654.582367,0"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.70588235;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.70588235;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 55.466293,583.30038 654.582367,0"
+       id="path4798"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.70588235;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 55.466293,732.30038 654.582367,0"
+       id="path4802"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3288"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"
+       transform="translate(0,62.36218)"><flowRegion
+         id="flowRegion3290"><rect
+           id="rect3292"
+           width="690.34326"
+           height="676.00378"
+           x="42.33559"
+           y="241.616" /></flowRegion><flowPara
+         id="flowPara3294" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5224"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"
+       transform="translate(51.12207,1034.5294)"><flowRegion
+         id="flowRegion5226"><rect
+           id="rect5228"
+           width="649.80902"
+           height="173.45551"
+           x="8.8855"
+           y="-215.82254"
+           style="font-size:8px;font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Palatino" /></flowRegion><flowPara
+         id="flowPara5244"
+         style="font-size:10px;font-style:italic;font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"><flowSpan
+           style="font-size:9px;font-style:normal;font-weight:bold;-inkscape-font-specification:Palatino Bold"
+           id="flowSpan4328">    L Th-2 indented plate-pair fwd mrgn, scraper, untoothed mandibular blade, gls sing or absent, pupate in groups on rocks - <flowSpan
+   style="font-size:10px;font-style:italic;-inkscape-font-specification:Palatino Bold Italic"
+   id="flowSpan4476">Uenoidae</flowSpan>.</flowSpan></flowPara><flowPara
+         id="flowPara4236"
+         style="font-size:9px"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Palatino Bold"
+   id="flowSpan4248"><flowSpan
+   style="font-size:10px;font-style:italic;-inkscape-font-specification:Palatino Bold Italic"
+   id="flowSpan4250">      Oligophlebodes sierra</flowSpan> (8mm) Y/dkB, W-Bk/B, Lg-YB/Bk, An-med.</flowSpan> Mtn strs, L horn-shape stone case w some heavier stones, heavy daytime drift w case. F struggle to break film to lay eggs. All  daytime activity makes for good fishing.  <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Palatino Bold"
+   id="flowSpan4257"><flowSpan
+   style="font-size:10px;font-style:italic;-inkscape-font-specification:Palatino Bold Italic"
+   id="flowSpan4259">Neophylax splendens, rickeri</flowSpan>(18mm) BY, W-motB, Lg-BY, An-lng.</flowSpan> Faster riffles of trout strs, but ok in wrmer wtrs, splend a bit further upstream.  L short, thick case w heavy balast stones, scrape diatoms and detritus from midstream rocks.  Diapause leads to concentrated emergence, P swim to surface of the riffles.   F may lay out of water, or drop eggs from above, but many M and F end up floating.</flowPara><flowPara
+         id="flowPara4315"
+         style="font-size:10px;font-style:italic;font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"><flowSpan
+   style="font-size:9px;font-style:normal;-inkscape-font-specification:Palatino Bold"
+   id="flowSpan4480">    L Th-2 straight fwd mrgn, often mult-branched gls - </flowSpan>Limnephilidae.</flowPara><flowPara
+         style="font-size:9px;font-style:italic;font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+         id="flowPara4284"><flowSpan
+           style="font-size:10px;font-style:italic;-inkscape-font-specification:Palatino Bold Italic"
+           id="flowSpan4286">      Dicosmoecus atripes</flowSpan><flowSpan
+           style="font-style:normal;-inkscape-font-specification:Palatino Bold"
+           id="flowSpan4350"> (30mm) orangeR, W-mot G&amp;B, Lg-BY, An-lng.</flowSpan><flowSpan
+           style="font-style:normal;font-weight:normal;-inkscape-font-specification:Palatino"
+           id="flowSpan4347"> Mod to large trout rvrs (McCloud, U Sac).  L pred-shred, 2 yr, Y w B thx, mult-branched gls, discard case when molting, drift bare.  Heavy daytime drift peaks at 4 pm.  Early instars live in slack margins, make veg cases, late inst move to faster waters, make stone cases.  Pup mid-summer, diapause and pupation last several wks.  P emerge by clumsy swimming and crawling into shallows and out of the water.  F flop onto surface and struggle for a long time when laying.</flowSpan></flowPara><flowPara
+         id="flowPara4337"><flowSpan
+           id="flowSpan4382"
+           style="font-size:10px;font-style:italic;font-weight:bold;-inkscape-font-specification:Palatino Bold Italic">     Chyranda centralis</flowSpan><flowSpan
+           style="font-size:9px"
+           id="flowSpan4339"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+   id="flowSpan4388"> (14 mm) strwY, W-mot ltB, Lg-ltB, An-lng.</flowSpan> Small strs, sprg crks in leaf accums. L sparse paired gls, bark case.  </flowSpan><flowSpan
+           style="font-size:10px;font-style:italic;font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+           id="flowSpan5278">Hesperophylax incisus</flowSpan><flowSpan
+           style="font-size:9px"
+           id="flowSpan3544"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Palatino Bold"
+   id="flowSpan4384"> (34 mm) Y/amber, W-C &amp; ltB w silver stripe, Lg-strwY, An-quite lng.</flowSpan> L usu shred, but opport omnivore, 4 or more gl branches, fast currs of strs, rvrs (Provo R in Utah).  L curved stone case, sometimes w vis bits of wood. </flowSpan></flowPara><flowPara
+         id="flowPara4410"
+         style="font-size:9px"> </flowPara><flowPara
+         id="flowPara5248" /><flowPara
+         id="flowPara5250" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5314"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"
+       transform="translate(53.810059,-320.1554)"><flowRegion
+         id="flowRegion5316"><rect
+           id="rect5318"
+           width="648.33337"
+           height="86.675026"
+           x="6.1515002"
+           y="816.94598"
+           style="font-size:8px;font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Palatino" /></flowRegion><flowPara
+         id="flowPara5326"><flowSpan
+           style="font-size:9px"
+           id="flowSpan3579"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Palatino Bold"
+   id="flowSpan4127">    L tube case, mult pairs of plates on Th-2-3, sml and isolated on Th-3, lng mid&amp;hind Lg - <flowSpan
+   style="font-size:10px;font-style:italic;-inkscape-font-specification:Palatino Bold Italic"
+   id="flowSpan4170">Brachycentridae</flowSpan>.</flowSpan>  L enlarge case as they grow, filter particles from the drift w md and hnd Lg, or scrape from rocks. Can ride air bubbles. P swim up, emerge in open water, F swim below or flop on surface to oviposit.</flowSpan></flowPara><flowPara
+         id="flowPara4235"><flowSpan
+           style="font-size:9px;font-style:normal;font-weight:bold;-inkscape-font-specification:Palatino Bold"
+           id="flowSpan5340"><flowSpan
+   style="font-size:10px;font-style:italic;-inkscape-font-specification:Palatino Bold Italic"
+   id="flowSpan4223">     Brachycentrus occidentalis</flowSpan> (13mm) brGn/GnB, W-Wt/tan, Lg-B/Bk, An-lng.</flowSpan><flowSpan
+           style="font-size:9px"
+           id="flowSpan3581"> Very large pops.  Can fasten cases on rocks in up to 1 m/sec flow. Spread legs in flow to catch particles. L sqr sect plant case, don't move around much, use anchor line and  rappel, pupate in place.  4 wk pupation, massed hatches.  P brGn, W-B.  </flowSpan><flowSpan
+           style="font-size:10px;font-style:italic;font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+           id="flowSpan5348">B. americanus<flowSpan
+   style="font-size:9px;font-style:normal;-inkscape-font-specification:Palatino Bold"
+   id="flowSpan4227">  Like <flowSpan
+   style="font-style:italic;-inkscape-font-specification:Palatino Bold Italic"
+   id="flowSpan4231">occid</flowSpan></flowSpan>.  </flowSpan><flowSpan
+           style="font-size:9px"
+           id="flowSpan3586">  Very large pops.  Med to lrg trout rvrs (Klamath).</flowSpan><flowSpan
+           style="font-size:9px;font-style:italic;font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+           id="flowSpan5358" /></flowPara><flowPara
+         id="flowPara4252"><flowSpan
+           style="font-size:9px;font-style:italic;font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+           id="flowSpan4254"><flowSpan
+             style="font-size:10px"
+             id="flowSpan4269">     Amiocentrus aspilis</flowSpan><flowSpan
+             style="font-style:normal;-inkscape-font-specification:Palatino Bold"
+             id="flowSpan4271"> (</flowSpan></flowSpan><flowSpan
+           style="font-size:9px"
+           id="flowSpan3590"><flowSpan
+   style="font-style:normal;font-weight:bold;-inkscape-font-specification:Palatino Bold"
+   id="flowSpan4263">7mm) GB, W-dkB, Lg-B, An-lng.</flowSpan>  L attach to rooted weeds, bottom moss in slower water than </flowSpan><flowSpan
+           style="font-size:9px;font-style:italic;font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+           id="flowSpan3408-8">brachy</flowSpan><flowSpan
+           style="font-size:9px"
+           id="flowSpan3592">, sprng crks (Fall).  Rnd sect case of plant mat which is enlarged as L grows, P brGn, W-B.</flowSpan></flowPara><flowPara
+         id="flowPara5328"
+         style="font-size:9px" /></flowRoot>    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3596"
+       d="m 55.466293,670.30038 654.582367,0"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.70588235;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5366"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"
+       transform="translate(52.408691,-126.27909)"><flowRegion
+         id="flowRegion5368"><rect
+           id="rect5370"
+           width="648.99371"
+           height="59.758492"
+           x="7.5185003"
+           y="797.12451"
+           style="font-size:8px;font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Palatino" /></flowRegion><flowPara
+         id="flowPara5378"><flowSpan
+           id="flowSpan4019"
+           style="font-size:9px;font-weight:bold;-inkscape-font-specification:Palatino Bold">    L f</flowSpan><flowSpan
+           style="font-size:9px"
+           id="flowSpan3617"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Palatino Bold"
+   id="flowSpan4031">lattened-spiral, snail-shaped sand case, bare bdy spirals inward, Al clws w comb teeth - <flowSpan
+   style="font-size:10px;font-style:italic;-inkscape-font-specification:Palatino Bold Italic"
+   id="flowSpan4207">Helicopsychidae</flowSpan>.  </flowSpan>Moderate currents of spr crks, to lrg rvrs, even wave-washed edges of lakes.  L scrape algae, detritus, and animal matter from rocks.  P swim to surface and A emerge in open water.  F oviposit in or near the water.</flowSpan><flowSpan
+           style="font-size:10px;font-style:italic;font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+           id="flowSpan5384" /></flowPara><flowPara
+         id="flowPara4211"><flowSpan
+           style="font-size:10px;font-style:italic;font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+           id="flowSpan4213">      Helicopsyche borealis<flowSpan
+   style="font-style:normal;font-weight:bold;-inkscape-font-specification:Palatino Bold"
+   id="flowSpan4157"> (</flowSpan></flowSpan><flowSpan
+           style="font-size:9px;font-style:normal;font-weight:bold;-inkscape-font-specification:Palatino Bold"
+           id="flowSpan5390">7 mm)</flowSpan><flowSpan
+           style="font-size:9px"
+           id="flowSpan3621"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Palatino Bold"
+   id="flowSpan4163"> plY, W-dkB speckles on ltB bkgnd, Lg-strwY.</flowSpan> Flight looks diff from other caddis, all 4 wngs beat together.  F appear to flop aimlessly onto water surface, or even surrounding land.</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4394"
+       style="fill:#000000;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"><flowRegion
+         id="flowRegion4396"><rect
+           id="rect4398"
+           width="1.7949717"
+           height="16.154745"
+           x="61.029037"
+           y="489.20288" /></flowRegion><flowPara
+         id="flowPara4400" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4402"
+       style="fill:#000000;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"><flowRegion
+         id="flowRegion4404"><rect
+           id="rect4406"
+           width="67.012276"
+           height="31.112843"
+           x="61.627361"
+           y="489.80121" /></flowRegion><flowPara
+         id="flowPara4408" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4095"
+       style="fill:#000000;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"><flowRegion
+         id="flowRegion4097"><rect
+           id="rect4099"
+           width="5.9734111"
+           height="16.12821"
+           x="48.981968"
+           y="102.35114" /></flowRegion><flowPara
+         id="flowPara4101" /></flowRoot>    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4103"
+       d="m 55.466293,165.30038 654.582367,0"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.70588235;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.70588235;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 55.466293,458.30038 654.582367,0"
+       id="path4147"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.70588235;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 55.466293,483.30038 654.582367,0"
+       id="path4157"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4195"
+       d="m 55.466293,646.30038 654.582367,0"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.70588235;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4223"
+       d="m 55.466293,816.30038 654.582367,0"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.70588235;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text"
+     transform="translate(0,225)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3063"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino Bold"><flowRegion
+         id="flowRegion3065"><rect
+           id="rect3067"
+           width="36.885448"
+           height="18.326733"
+           x="36.653465"
+           y="100.59797" /></flowRegion><flowPara
+         id="flowPara3069" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5003"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino Bold"><flowRegion
+         id="flowRegion5005"><rect
+           id="rect5007"
+           width="667.09601"
+           height="110.0435"
+           x="4.1010003"
+           y="-210.35454" /></flowRegion><flowPara
+         id="flowPara5009" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5105"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino Bold"><flowRegion
+         id="flowRegion5107"><rect
+           id="rect5109"
+           width="649.32501"
+           height="63.565502"
+           x="11.6195"
+           y="-113.98103" /></flowRegion><flowPara
+         id="flowPara5111" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5138"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino Bold"><flowRegion
+         id="flowRegion5140"><rect
+           id="rect5142"
+           width="660.94452"
+           height="139.43401"
+           x="12.986501"
+           y="-189.16605" /></flowRegion><flowPara
+         id="flowPara5144" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5440"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino Bold"><flowRegion
+         id="flowRegion5442"><rect
+           id="rect5444"
+           width="421.03601"
+           height="43.060501"
+           x="41.010002"
+           y="918.78754" /></flowRegion><flowPara
+         id="flowPara5446" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3374"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino Bold"><flowRegion
+         id="flowRegion3376"><rect
+           id="rect3378"
+           width="249.91713"
+           height="20.063156"
+           x="715.73126"
+           y="322.73828" /></flowRegion><flowPara
+         id="flowPara3380" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3666"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"><flowRegion
+         id="flowRegion3668"><rect
+           id="rect3670"
+           width="656.52197"
+           height="58.950459"
+           x="22.959652"
+           y="341.17722" /></flowRegion><flowPara
+         id="flowPara3672" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3554"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"><flowRegion
+         id="flowRegion3556"><rect
+           id="rect3558"
+           width="544.46533"
+           height="39.898811"
+           x="89.618874"
+           y="248.77075" /></flowRegion><flowPara
+         id="flowPara3560" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3792"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"><flowRegion
+         id="flowRegion3794"><rect
+           id="rect3796"
+           width="259.41241"
+           height="16.508064"
+           x="35.37442"
+           y="682.45966" /></flowRegion><flowPara
+         id="flowPara3798" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4784"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"
+       transform="translate(0,-229)"><flowRegion
+         id="flowRegion4786"><rect
+           id="rect4788"
+           width="650.41797"
+           height="28.55131"
+           x="59.80172"
+           y="81.632515" /></flowRegion><flowPara
+         id="flowPara4790"><flowSpan
+   style="font-size:11px;font-weight:bold;-inkscape-font-specification:Palatino Bold"
+   id="flowSpan4091">Key</flowSpan>    L-larvae, P-pherates, A-adults, Stage omitted-adult, F-female, M-male, An-antennae, W-wings, Lg-legs, Th-thorasic, Ab-abdominal, Al-anal, Apl-prolegs, Part Omitted-bdy, B-brn, O-Olv, G-gry, Gn-grn, Y-yel, C-crm, R-red, Bk-blk, Wt-white, br-bright, lt-light, pl-pale, dk-drk, /-ranges to.  (9/7/15)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5011"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"
+       transform="translate(44.27832,123.81671)"><flowRegion
+         id="flowRegion5013"><rect
+           id="rect5015"
+           width="648.96814"
+           height="62.026222"
+           x="15.720501"
+           y="-220.60704"
+           style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Palatino" /></flowRegion><flowPara
+         id="flowPara5025"><flowSpan
+           style="font-size:9px;font-weight:bold;-inkscape-font-specification:Palatino Bold"
+           id="flowSpan5035">  L free living, beadlike bdy segs in dorsal view, Lg-strong, eq size, Apl-lng, strong clws - <flowSpan
+   style="font-style:italic;-inkscape-font-specification:Palatino Bold Italic"
+   id="flowSpan4118"><flowSpan
+   style="font-size:10px"
+   id="flowSpan4143">Rhyacophilidae</flowSpan>. </flowSpan></flowSpan><flowSpan
+           style="font-size:9px"
+           id="flowSpan5037"> Develop, pupate, emerge, and oviposit in the same cold, clear, fast riffles and pocket water.  L predator, audacious scrambler on, under rocks, B silk anchor and rappel, poor swmr, good searching pattern all year before pupation.  P swim to film,  A escape quickly (10's of ft, even in fast water), engendering frenetic trout feeding.  A day or 2 later, F crawl or swim to bottom, lay, and then simply release and drift downstream and up to surface.  Fish feed actively, but less violently than during the emergence.  <flowSpan
+   style="font-size:10px;font-style:italic;font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+   id="flowSpan5043">Rhyacophila grandis<flowSpan
+   style="font-size:9px"
+   id="flowSpan3995"> (16mm)</flowSpan>, bifilas</flowSpan><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+   id="flowSpan3991"> (smlr) OGn, W-G&amp;B mot, L-B, An-med.</flowSpan> Mtn strs. L brG/tan, P G, W-brn. </flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5055"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"
+       transform="translate(31.891113,123.38952)"><flowRegion
+         id="flowRegion5057"><rect
+           id="rect5059"
+           width="648.87512"
+           height="60.95752"
+           x="28.0235"
+           y="-159.77554"
+           style="font-size:8px;font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Palatino" /></flowRegion><flowPara
+         id="flowPara5065"><flowSpan
+           style="font-size:10px;font-style:normal;font-weight:bold;-inkscape-font-specification:Palatino Bold"
+           id="flowSpan5069"><flowSpan
+             style="font-size:9px"
+             id="flowSpan4039">  L turtle-shaped case</flowSpan><flowSpan
+             style="font-size:9px;font-weight:bold;-inkscape-font-specification:Palatino Bold"
+             id="flowSpan3997"> of coarse</flowSpan></flowSpan><flowSpan
+           style="font-size:9px"
+           id="flowSpan3400"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Palatino Bold"
+   id="flowSpan4003"> pebbles, Lg-eq, no vis gls, Apl-shrt, clws tiny, mlt hooks on each - <flowSpan
+   style="font-size:10px;font-style:italic;-inkscape-font-specification:Palatino Bold Italic"
+   id="flowSpan4122">Glossosomatidae</flowSpan>.  </flowSpan>L can reverse in case, crawl around on tops of rocks to scrape veg matter, often molt in sync, abandon case w each molt, maybe drift, build new case.  Trout feed voraciously on the drifters.  L migrate to margins of riffles, glue case to rocks to pupate.  Sporatic emergence (swim to surface), oviposition (dive under), but sometimes intense enough to trigger mass feeding.  </flowSpan><flowSpan
+           style="font-size:10px;font-style:italic;font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+           id="flowSpan5077">Glossosoma triviatum</flowSpan><flowSpan
+           style="font-size:9px"
+           id="flowSpan3402"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+   id="flowSpan4005"> (10 mm) GnB, W-plTan/medB, L-B, An-med.</flowSpan> Cold, oxygenated med rvrs (L Yuba).  L tan/C, poss pinkish, P plG, W-tan.   </flowSpan><flowSpan
+           style="font-size:10px;font-style:italic;font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+           id="flowSpan5085">G. califica</flowSpan><flowSpan
+           style="font-size:9px"
+           id="flowSpan3406"> Like </flowSpan><flowSpan
+           style="font-size:9px;font-style:italic;font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+           id="flowSpan5091">triv.</flowSpan><flowSpan
+           style="font-size:9px"
+           id="flowSpan3408">  Lrg strs, small rvrs (McCloud). </flowSpan></flowPara><flowPara
+         id="flowPara5067" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5146"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"
+       transform="translate(46.354004,247.38785)"><flowRegion
+         id="flowRegion5148"><rect
+           id="rect5150"
+           width="646.49817"
+           height="155.4379"
+           x="13.670001"
+           y="-187.11554"
+           style="font-size:8px;font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Palatino" /></flowRegion><flowPara
+         id="flowPara4051"><flowSpan
+           style="font-size:10px;font-style:italic;font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+           id="flowSpan4053">   Arctopsyche grandis</flowSpan><flowSpan
+           id="flowSpan4045"
+           style="font-size:9px"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+   id="flowSpan4047">  (20mm) GnB, W-dkG w Wt spots, Lg-dkB, An-lng.</flowSpan> Cold, pristine, hdwtrs to sm rvrs, &gt;1500' elev (U Big Hole).  L, 2 yrs, coarse net for insects, freq noct drft w dwn/dsk pks, good searching pattern.  E moves upstream.</flowSpan></flowPara><flowPara
+         id="flowPara4075"><flowSpan
+           style="font-size:10px;font-style:italic;font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+           id="flowSpan4077">   Hydropsyche  occidentalis</flowSpan><flowSpan
+           style="font-size:9px"
+           id="flowSpan3458"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+   id="flowSpan4098"> (14mm) BY, W-motB, Lgs-strwY/dkB, An-lng.</flowSpan> Huge pops.  Rich strs, rvrs.  Somewhat bigger, slightly wrmr wtrs than </flowSpan><flowSpan
+           style="font-size:9px;font-style:italic;font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+           id="flowSpan3404-6">arcto</flowSpan><flowSpan
+           style="font-size:9px"
+           id="flowSpan3460">.  L finer net, wht silk anchor and rappel, poss in place of behavioral drift. Pupate in or nr habitual rifs, runs.  P hatch densely, drft w bot currents, inflate pupal skin w gas and rise to surface, but float under film a long time.  Then take more time to shed skin and fly away. Very vulnerable and attractive to trout during the whole process.  F oviposit in large numbers, let go after laying, and drift exhausted back to surface. earyly summer.  </flowSpan><flowSpan
+           style="font-size:10px;font-style:italic;font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+           id="flowSpan3382">H. californica</flowSpan><flowSpan
+           style="font-size:9px"
+           id="flowSpan3464"> - (McCloud).  </flowSpan><flowSpan
+           style="font-size:10px;font-style:italic;font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+           id="flowSpan5198">H. cockerelli</flowSpan><flowSpan
+           style="font-size:9px"
+           id="flowSpan3466"> - split gens, June, late sumr. Lgr rvrs.</flowSpan></flowPara><flowPara
+         id="flowPara4106"><flowSpan
+           style="font-size:9px;font-style:italic;font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+           id="flowSpan4108"><flowSpan
+             style="font-size:10px"
+             id="flowSpan4119">   Cheumatopsyche compyla</flowSpan><flowSpan
+             style="font-style:normal;-inkscape-font-specification:Palatino Bold"
+             id="flowSpan4117"> (8mm) Gn/GnB, W-motB, Lg-B, An-lng.</flowSpan></flowSpan><flowSpan
+           style="font-size:9px"
+           id="flowSpan3468"> Huge pops.  Lower to lowest trout reaches of larger rivers.  L OB, spins finest net, P brGn, W-B.  Hatches later as season progresses.  </flowSpan><flowSpan
+           style="font-size:10px;font-style:italic;font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+           id="flowSpan5216">C. pettiti</flowSpan><flowSpan
+           id="flowSpan4285"
+           style="font-size:9px;font-style:normal;font-weight:bold;-inkscape-font-specification:Palatino Bold"> Like <flowSpan
+   style="font-style:italic;-inkscape-font-specification:Palatino Bold Italic"
+   id="flowSpan4289">compyla. </flowSpan><flowSpan
+   style="font-weight:normal;-inkscape-font-specification:Palatino"
+   id="flowSpan4295">S</flowSpan></flowSpan><flowSpan
+           style="font-size:9px;font-style:normal;font-weight:normal;-inkscape-font-specification:Palatino"
+           id="flowSpan3472">trs and small rvrs.</flowSpan></flowPara><flowPara
+         id="flowPara5164" /><flowPara
+         id="flowPara5166" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5406"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"
+       transform="translate(49.650391,-509.01156)"><flowRegion
+         id="flowRegion5408"><rect
+           id="rect5410"
+           width="646.53375"
+           height="61.32132"
+           x="10.252501"
+           y="806.01001"
+           style="font-size:8px;font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Palatino" /></flowRegion><flowPara
+         id="flowPara5416"><flowSpan
+           style="font-size:9px"
+           id="flowSpan3644"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Palatino Bold"
+   id="flowSpan4135">  L tube case, sand or stone, rnd or sq, 1 lrg plate pair Th-2, few tiny prs Th-3 - <flowSpan
+   style="font-size:10px;font-style:italic;font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+   id="flowSpan4174">Lepidostomatidae</flowSpan>.</flowSpan>  L feed on veg matter (leaves, pine needles) in mod flowing woodland strs.  Enlarge case when they grow, drift with case, esp just before pupation. Pup along gentle edges nr L habitat.</flowSpan><flowSpan
+           style="font-size:10px;font-style:italic;font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+           id="flowSpan5426" /></flowPara><flowPara
+         id="flowPara4187"><flowSpan
+           style="font-size:10px;font-style:italic;font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+           id="flowSpan4189">     Lepidostoma reyneri</flowSpan><flowSpan
+           style="font-size:9px"
+           id="flowSpan3646"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+   id="flowSpan4169"> (10mm) B occ Y, W-B, Lg-B, An-lng.</flowSpan> Not restricted to strs -- also in backwtrs of large rvrs, drawing trout when they emerge.  L rnd sand case, esp strong drift before pupation, P slower margins, struggling swm to film, X there.  </flowSpan><flowSpan
+           style="font-size:10px;font-style:italic;font-weight:bold;-inkscape-font-specification:Palatino Bold Italic"
+           id="flowSpan5434">L. unicolor</flowSpan><flowSpan
+           style="font-size:9px"
+           id="flowSpan3650"> - Slow woodland strs.  F lay balls of eggs, in or near water.</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5448"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"
+       transform="translate(44.27832,-353.28136)"><flowRegion
+         id="flowRegion5450"><rect
+           id="rect5452"
+           width="647.49304"
+           height="86.706131"
+           x="15.720501"
+           y="798.49152"
+           style="font-size:8px;font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Palatino" /></flowRegion><flowPara
+         id="flowPara5462"><flowSpan
+           id="flowSpan4151"
+           style="font-size:9px;font-weight:normal;-inkscape-font-specification:Palatino"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Palatino Bold"
+   id="flowSpan4218">    L slender case of var mat, even pure silk, hind Lg much longer, A M lgr than F - <flowSpan
+   style="font-size:10px;font-style:italic;-inkscape-font-specification:Palatino Bold Italic"
+   id="flowSpan4219">Leptoceridae</flowSpan>. </flowSpan> Still and running wtrs.  </flowSpan></flowPara><flowPara
+         id="flowPara4178"><flowSpan
+           style="font-size:9px;font-style:italic;font-weight:bold;-inkscape-font-specification:Palatino Bold"
+           id="flowSpan4180"><flowSpan
+   style="font-size:10px"
+   id="flowSpan4197">      Oecetis avara</flowSpan> (</flowSpan><flowSpan
+           id="flowSpan4195"
+           style="font-size:9px;font-weight:bold;-inkscape-font-specification:Palatino Bold">12mm) bdy, lgs, wngs all Y/B, An-vry lng. yel to brn, ant very long, bdy slender.</flowSpan><flowSpan
+           style="font-size:9px;font-weight:normal;-inkscape-font-specification:Palatino"
+           id="flowSpan3677">  Very large pops.  Pref still or slow wtrs but can inhabit fairly swift strs and rvrs.  L horn-shaped cases of  large sand grains. free-moving preds, targeted by trout esp during last instar.   Trout still selective well after peak emerg.</flowSpan><flowSpan
+           style="font-size:9px;font-style:italic;font-weight:normal;-inkscape-font-specification:Palatino"
+           id="flowSpan5488" /></flowPara><flowPara
+         id="flowPara4199"><flowSpan
+           style="font-size:9px;font-style:normal;font-weight:bold;-inkscape-font-specification:Palatino Bold"
+           id="flowSpan4201"><flowSpan
+   style="font-size:10px;font-style:italic;-inkscape-font-specification:Palatino Bold Italic"
+   id="flowSpan4212">      Mystacides alafimbriata</flowSpan> (</flowSpan><flowSpan
+           style="font-size:9px;font-weight:normal;-inkscape-font-specification:Palatino"
+           id="flowSpan3681"><flowSpan
+   style="font-style:normal;font-weight:bold;-inkscape-font-specification:Palatino Bold"
+   id="flowSpan4206">9 mm) Y/dkB, W-metalic Bk/dkB, Lg-strwY, An-vry lng.</flowSpan> Lakes, ponds, or slow, weedy rvrs, but cool.  L build long, thin veg, shell frag or stone cases, much longer than the animal, w twigs or conifir needles projecting fwd of opening, crawl freely over bottom. L blk spots and splotches on hd &amp; thx.   P crawl onto protruding objects.</flowSpan></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"
+       x="62.225685"
+       y="68.581184"
+       id="text4137"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-225)"><tspan
+         sodipodi:role="line"
+         id="tspan4139"
+         x="62.225685"
+         y="68.581184" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3930"
+       style="fill:#000000;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill-opacity:1;fill-rule:nonzero;marker:none;marker-start:none;marker-mid:none;marker-end:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"><flowRegion
+         id="flowRegion3932"><rect
+           id="rect3934"
+           width="657.0752"
+           height="18.517574"
+           x="57.942085"
+           y="18.723381" /></flowRegion><flowPara
+         id="flowPara3936" /></flowRoot>    <flowRoot
+       transform="translate(0,-202)"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"
+       id="flowRoot4105"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4107"><rect
+           y="81.632515"
+           x="59.80172"
+           height="23.772573"
+           width="650.41785"
+           id="rect4109" /></flowRegion><flowPara
+         id="flowPara4111"
+         style="font-weight:bold;-inkscape-font-specification:Palatino Bold">L head fwd pointing,  dk shield on Th-1 only, plate Ab-IX dors, no case, or stone case without silk lining, pupates in closed cocoon under stone dome (or case as prev) glued to substrate.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4126"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"
+       transform="translate(0,-55)"><flowRegion
+         id="flowRegion4128"><rect
+           id="rect4130"
+           width="649.8205"
+           height="35.719391"
+           x="59.80172"
+           y="81.632515" /></flowRegion><flowPara
+         style="font-weight:bold;-inkscape-font-specification:Palatino Bold"
+         id="flowPara4132">L head fwd pointing, drk shield Th-1-3, sligtly furry back, Wt inter-seg gills on abdo, B anal brush, Apl-longish, good clws. Net spinner, caseless, but build tubular retreats (poss sand covered) adjacent to net.  Pupates in slit-end cocoon under stone dome glued to substrate - <flowSpan
+   style="font-size:10px;font-style:italic;-inkscape-font-specification:Palatino Bold Italic"
+   id="flowSpan4134">Hydropsychidae</flowSpan>.<flowSpan
+   style="font-weight:normal;-inkscape-font-specification:Palatino"
+   id="flowSpan4136"> L spin nets on rocks and wood debris along bottoms of riffles and runs to catch drifting particles.  P swim to surface, emerge in open water, A dive under and lay on bottom. </flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4149"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"
+       transform="translate(0,91)"><flowRegion
+         id="flowRegion4151"><rect
+           id="rect4153"
+           width="650.41785"
+           height="23.772573"
+           x="59.80172"
+           y="81.632515" /></flowRegion><flowPara
+         style="font-weight:bold;-inkscape-font-specification:Palatino Bold"
+         id="flowPara4155">L head downward pointing, veg or mineral case with silk lining, usually extends case for new instar. Pupates in slit-ended cocoon in final-instar case, glued to substrate.</flowPara></flowRoot>    <flowRoot
+       transform="translate(0,115)"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"
+       id="flowRoot4159"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4161"><rect
+           y="81.632515"
+           x="59.80172"
+           height="23.772573"
+           width="650.41785"
+           id="rect4163" /></flowRegion><flowPara
+         id="flowPara4165"
+         style="font-weight:bold;-inkscape-font-specification:Palatino Bold">  L no medial-dorsal hump on Ab-I.<flowSpan
+   style="font-weight:normal;-inkscape-font-specification:Palatino"
+   id="flowSpan4167"> Lack of spacing hump implies need for moving water environment, but incl washed lake shores.  </flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4197"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"
+       transform="translate(0,278)"><flowRegion
+         id="flowRegion4199"><rect
+           id="rect4201"
+           width="650.41785"
+           height="23.772573"
+           x="59.80172"
+           y="81.632515" /></flowRegion><flowPara
+         style="font-weight:bold;-inkscape-font-specification:Palatino Bold"
+         id="flowPara4203">  L spacing hump(s) on Ab-I.<flowSpan
+   id="flowSpan4205"
+   style="font-weight:normal;-inkscape-font-specification:Palatino"> Humps together with silk linings allow the L to use abdominal undulations to pump water through the case, permitting slow or still water habitats.  </flowSpan></flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Heading"
+     transform="translate(0,225)">
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Palatino;-inkscape-font-specification:Palatino Bold"
+       x="375.38269"
+       y="-166.63562"
+       id="text3004"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3006"
+         x="375.38269"
+         y="-166.63562">Caddis (Trichoptera) Major Emergences:  California (cont)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino Bold"
+       x="692.54749"
+       y="-91.230247"
+       id="text5577"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5579"
+         x="692.54749"
+         y="-91.230247" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3455"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"
+       transform="translate(1.2079053,-5.4355737)"><flowRegion
+         id="flowRegion3457"><rect
+           id="rect3459"
+           width="384.71783"
+           height="11.475101"
+           x="286.27356"
+           y="104.87977" /></flowRegion><flowPara
+         id="flowPara3461"
+         style="font-size:8px" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3616"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"><flowRegion
+         id="flowRegion3618"><rect
+           id="rect3620"
+           width="137.1144"
+           height="15.635853"
+           x="303.69638"
+           y="197.89964" /></flowRegion><flowPara
+         id="flowPara3622" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3738"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Palatino;-inkscape-font-specification:Palatino"><flowRegion
+         id="flowRegion3740"><rect
+           id="rect3742"
+           width="655.39771"
+           height="56.70295"
+           x="25.037666"
+           y="58.790539" /></flowRegion><flowPara
+         id="flowPara3744" /></flowRoot>  </g>
+</svg>

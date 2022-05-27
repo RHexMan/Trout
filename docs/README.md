@@ -1,8 +1,8 @@
 [Home](https://rhexman.github.io)
 
-## [Download Emergence Charts PDF](https://github.com/RHexMan/Trout/releases/tag/v1.0.0)
+## [Download the Emergence Charts and/or Practical Keys PDFs](https://github.com/RHexMan/Trout/releases/tag/v1.0.0)
 
-Clicking the link will take you to the Charts releases page. Click on the word “Assets”, (if necessary) then click on the zip. Once the zip arrives on your machine, move it to a suitable location and double click the file to unzip.
+Clicking the link will take you to the releases page. Click on the word “Assets”, (if necessary) then click on the one or both of the zips. Once a zip arrives on your machine, move it to a suitable location and double click the file to unzip it.
 
 # Spatio-Temporal Emergence Charts
 
